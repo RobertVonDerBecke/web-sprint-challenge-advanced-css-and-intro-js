@@ -143,7 +143,23 @@ button:hover{
         align-items: center;
     }
     .artist {
-        width: 100%;
+        width: 60%;
+        ;
+        
+        
+    }
+    .artist a {
+        font-size: 1.5rem;
+    }
+    .artist img {
+        object-fit: contain;
+        height: auto;
+
+    }
+    .artist .bio {
+        font-size: 1rem;
+        
+        
     }
     nav a{
         font-size: 2rem;
